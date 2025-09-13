@@ -1,4 +1,5 @@
 # Meteo Circlepick Minigame
+# Avaialbe at : https://meteofivem.net/fivem-scripts/prodigy-rp-inspired-circlepick-minigame
 
 A circle-based lockpicking minigame script for FiveM.
 
@@ -70,4 +71,5 @@ This script is exclusively available through official Meteo Studios FiveM and we
 
 - **Script Link**: https://meteofivem.net/fivem-scripts/prodigy-rp-inspired-circlepick-minigame
 - **Website**: https://meteofivem.net/
+
 - **Discord**: https://discord.com/invite/wxp9gaVrqa
